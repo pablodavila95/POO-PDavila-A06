@@ -1,0 +1,3 @@
+C:/Users/Pablo/CLionProjects/POv2/POO-PDavila-A06/cmake-build-debug/CMakeFiles/POO_PDavila_A06.dir
+C:/Users/Pablo/CLionProjects/POv2/POO-PDavila-A06/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Pablo/CLionProjects/POv2/POO-PDavila-A06/cmake-build-debug/CMakeFiles/rebuild_cache.dir
